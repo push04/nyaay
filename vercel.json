@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "builds": [
-    {
-      "src": "apps/web",
-      "use": "@vercel/next",
-      "config": {
-        "framework": "nextjs"
-      }
-    }
-  ]
-}
+{}
